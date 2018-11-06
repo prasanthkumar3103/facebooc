@@ -1,4 +1,4 @@
-FROM ubuntu  # to launch container which base image we use launch container
+FROM ubuntu  # to launch container which base image we use 
 
 WORKDIR /opt/facebook  #setting working/build directory path
 
